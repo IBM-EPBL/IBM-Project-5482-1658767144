@@ -12,3 +12,7 @@ we can be able to know if there are any dust particles present in the water.
 The PH level of the water can be monitored. 
 Water temperature can be monitored.
 We should be alerting the authorities if the water quality is not good so that they can go and announce the localities not to drink that water.`
+
+`Technical Architecture:`
+
+![image](https://user-images.githubusercontent.com/84463911/192079749-b1ad2539-c8bb-4df5-b32f-05af76f8da7d.png)
